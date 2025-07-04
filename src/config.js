@@ -1,0 +1,1 @@
+export const ES_MOD_DESARROLLO = process.env.NODE_ENV !== "development"
